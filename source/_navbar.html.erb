@@ -1,0 +1,24 @@
+<div class="navbar-wagon">
+
+  <div class="navbar-wagon-left">
+
+    <!-- Logo -->
+    <% link_to "/", class: "navbar-wagon-brand" do %>
+      <%= image_tag "lewagon.png" %>
+    <% end %>
+
+    <!-- Text link -->
+    <%= link_to "Les étonnants professeurs", "/index.html", class: "navbar-wagon-item navbar-wagon-link" %>
+  </div>
+
+  <!-- Right Navigation -->
+  <div class="navbar-wagon-right hidden-xs hidden-sm">
+
+    <!-- Text link -->
+    <%= link_to "Le Wagon", "https://www.lewagon.com", class: "navbar-wagon-item navbar-wagon-link" %>
+
+    <!-- Text link -->
+    <a href="/team.html" class="navbar-wagon-item navbar-wagon-link">Qui a écrit ce bazar là ?</a>
+
+  </div>
+</div>

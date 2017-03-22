@@ -1,0 +1,24 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: http://unsplash.it/150/150/?random
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+boris:
+  owner_name: Boris Paillard
+  picture: http://unsplash.it/150/150?random
+  owner_picture: http://unsplash.it/150/150?random
+  name: Boris's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+anne:
+  owner_name: Anne Brussels
+  picture: http://unsplash.it/150/150?random
+  owner_picture: http://unsplash.it/150/150?random
+  name: Anne's home
+  summary: Nice flat in Brussels
+  city: Brussels, Belgium
+  wifi: false
