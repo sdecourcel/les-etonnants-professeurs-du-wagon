@@ -34,6 +34,10 @@
 .back-link {
   font-size: 18px;
   color: #27718B;
+  &:hover {
+    color: #2791BF;
+    text-decoration: none;
+  }
 }
 
 
