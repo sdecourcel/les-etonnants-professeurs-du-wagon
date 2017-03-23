@@ -13,7 +13,7 @@ seb:
     - Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
     - Il y a plein de gens talentueux partout
     - C'est bien foutu quand même, les mecs ils ont réfléchi...
-  videos: Technical_Workflow_for_a_startup_Se_concentrer_pour_creer.mp4
+  videos: Technical_Workflow_for_a_startup_Se_concentrer_pour_creer
   warnings:
     warnings_title: Sharpened mind scanning questions faster than a computer
     warnings_content:
@@ -275,7 +275,7 @@ sylvain:
     - Je suis en train de regarder vos yeux, pour voir si il y en a qui tremblent un peu
 charles:
   name: Charles Pernet
-  summary: Extraordinarily efficient smiling eyes teacher
+  summary: Extremely efficient smiling eyes teacher
   picture: charles.jpg
   code_vision:
     - Les API c'est cool, partez plutôt avec cette idée là, plutôt que la syntaxe pourrie de javascript...
