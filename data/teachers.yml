@@ -96,7 +96,6 @@ seb:
     - Y'a rien de nouveau là
     - Ca dort là!
     - On va aller un cran plus loin
-    - On est le roi du monde avec ça
     - Je vous l'accorde
     - Ca tombe bien, c'est quand même magnifique
     - Qu'est ce que j'ai fait comme bêtise ?
@@ -106,6 +105,7 @@ seb:
     - Maintenant que j'ai un peu dédramatisé la situation...
     - Ouh là, j'ai été un p'tit peu violent
     - Du coup on va le faire ensemble
+    - On est le roi du monde avec ça
 boris:
   name: Boris Paillard
   summary: Very good scaringly pale teacher
@@ -168,28 +168,24 @@ boris:
     - Si tu veux à un moment donné, c'est presque 'overkill' de se faire une armée de classes utilitaires énorme
     - C'est robuste, c'est pas un truc qui va nous éclater dans les mains, et en même temps c'est pas non plus un ancetre
     - Scaffold c'est pas un ami, parce qu'ensuite il faut enlever du gras
-    - Là Seb il me tape dessus si je poste un truc comme ça, mais c'est la vie
-    - Et je suis sûr que vous êtes ravis parce qu'on va faire de la validation
-    - Je les crashtestent pas parce qu'elles sont dans les slides de Seb, donc elles doivent être bonnes
-    - aujourd'hui j'ai un peu la flemme, je vais faire pas mal de copier/coller, si ça vous dérange pas
+    - Là Seb il me tape dessus si je poste un truc comme ça... mais c'est la vie
+    - Je les crashteste pas parce qu'elles sont dans les slides de Seb, donc elles doivent être bonnes
+    - Aujourd'hui j'ai un peu la flemme, je vais faire pas mal de copier/coller, si ça vous dérange pas
     - C'est pas un beau cadeau parce que tu sais pas ce que ça fait
     - Pour l'instant vous pouvez le faire betement, comme moi là...
     - Pour l'instant on n'a fait que ça, mais comme je parle beaucoup on a l'impression qu'on a fait plus de choses
     - Là y'a plein d'aller-retours, ça s'appelle travailler, et quand t'es content, tu pull et tu push sur Heroku
     - Comme y'a plein de gens qui ont posté des articles pendant que je fais mon cours... enfin 'tellement'...pas tant que ça
     - Comme on est des ouf, on va se faire direct un before_action
-    - Là Seb il me tape dessus si je poste un truc comme ça, mais c'est la vie...
-    - Scaffold c'est pas un ami, parce qu'ensuite il faut enlever du gras
-    - Je les crashtestent pas parce qu'elles sont dans les slides de Seb, donc elles doivent être bonnes...
     - Le gars il a passé 10 ans sur votre formulaire
     - "Et là qu'est ce que je vais faire ? Je vais injecter mes messages dans un bon vieux 'li'"
     - Aaahh...qu'à cela ne tienne, on va faire un commit absurde
     - On va utiliser un template sous stéroides
     - Ca sert à rien de pourrir votre code avec du code qui vient d'une librairie externe
     - Je peux aussi écrire du bon vieux css là dedans
-    - C'est quand même horrible c'que j'suis en train de faire, je vais remettre qqch de pas trop dégueu
+    - C'est quand même horrible c'que j'suis en train de faire, je vais remettre quelque chose de pas trop dégueu
     - Ca... je n'en parle pas, essayez de réfléchir philosophiquement sur ce que ça veut dire
-    - Vous pouvez forker rails et faire une pull request pour améliorer le projet, sait on jamais...
+    - Vous pouvez forker rails et faire une pull request pour améliorer le projet... sait on jamais...
   speech_transitions:
     - OK!
     - Bon...
@@ -204,17 +200,18 @@ boris:
     - Ca vous va ? De toute façon c'est ce qui va se passer
     - Qu'à cela ne tienne
     - Ca va ?
-    - Bon, si on se relaxe 2 secondes
+    - Bon, si on se relaxe 2 secondes...
     - C'est bon là vous vous concentrez ?
     - Qu'est ce qu'on remarque de très intéressant ? Ayez l'oeil avisé là...
     - Grosse question...
     - Oui ou non ?
-    - Bon alors, celui là, vous plantez pas cette fois ci, on réfléchit...
+    - Ah tu t'es fait avoir, t'es tombé ds le panneau direct
+    - Bon alors, celui là, vous plantez pas cette fois ci... on réfléchit...
     - Vous me faites peur...
-    - "Alors là, on arrive à l'heure solennelle : les choses à ne PAS faire"
-    - Et puis..yallah
+    - "Alors là, on arrive à l'heure solennelle : les choses à ne PAS faire!"
+    - Et puis... yallah
     - Ca va vous êtes encore... vous n'êtes pas morts ?
-    - Je pousse un peu parce que je sens que.. que tout le monde est là
+    - Je pousse un peu parce que je sens que... que tout le monde est là...
     - Allez, un peu plus de nerf
     - On se la refait
     - Alors c'est un peu chiant là, mais heu, c'est la vie
@@ -225,7 +222,7 @@ boris:
     - Vous voyez le délire ?
     - Faut pas voir ça comme un truc effrayant
     - C'est le truc qui tue tous les débutants
-    - Me dites pas oui si vous n'avez pas compris … rrahhhh (gros désespoir)... bon, et bah on va passer du temps alors...
+    - Me dites pas oui si vous n'avez pas compris … rrahhhh (= gros désespoir)... bon, et bah on va passer du temps alors...
     - Tiens, tu vas voir
     - On est d'accord, c'est bizarre ou pas ?
     - Avant toute chose...
@@ -238,7 +235,6 @@ boris:
     - Y'a rien de très puissant là dedans
     - Ca réinvente pas la poudre
     - Et je suis sûr que vous êtes ravis parce qu'on va faire de la validation...
-    - Ah tu t'es fait avoir, t'es tombé ds le panneau direct
     - Ouais, question rapide parce que là tout le monde va te tuer
     - Bah voilà, vous êtes contents, on va boire un café ?
     - Bon allez, café, et puis méditation
@@ -258,91 +254,91 @@ sylvain:
     - Vous avez signé pour donner votre vie au wagon
     - N'essayez pas d'avoir une fausse bonne idée
     - Rails, il est vraiment con comme un balai, mais super serviable
-    - "Avec Rails tu peus aller encore plus loin : t'effaces tout ton code et ça marche quand même..."
+    - "Avec Rails tu peux aller encore plus loin : t'effaces tout ton code et ça marche quand même..."
     - Là ça va peut etre me peter à la gueule
-    - Normalement ça fait des p'tis papillons dans le ventre parce que ça vous l'avez déjà vu
+    - Normalement ça fait des p'tis papillons dans le ventre parce que ça vous l'avez déjà vu... non ?
     - Si vous trichez, on vous fera la gueule, on vous aidera plus
     - Les aventures d'une p'tite requete http...
     - C'est la magie du chocolat
     - Sinon ça va être la fête à la saucisse
-    - On peut faire ce montage d'imgs qui est absolument délicieux
+    - On peut faire ce montage d'images qui est absolument délicieux
     - "Un p'tit effet shadow tout pourri : c'est magnifique comme tout"
   speech_transitions:
     - Laissez vos cerveaux allumés
     - Je suis assez convaincu par ce qu'on vient de faire
     - Je vous ai perdu ou pas ? Je m'inquiète parfois...
     - Qui est ce qui est en panique là ?
-    - Je suis en train de regarder vos yeux, pour voir si il y en a qui tremblent un peu
+    - Je suis en train de regarder vos yeux, pour voir si il y en a qui tremblent un peu...
 charles:
   name: Charles Pernet
   summary: Extremely efficient smiling eyes teacher
   picture: charles.jpg
   code_vision:
     - Les API c'est cool, partez plutôt avec cette idée là, plutôt que la syntaxe pourrie de javascript...
-    - "Administrateur systeme c'est un métier horrible, c'est dur quoi, si y'a un client qui vous demande de le faire parce qu'il veut pas Heroku : dites non"
+    - "Administrateur systeme c'est un métier horrible, c'est dur quoi. Si y'a un client qui vous demande de le faire parce qu'il veut pas Heroku : dites non..."
   warnings:
     warnings_title: Very handsome guy...
   teaching_overview:
-    - Changer les routes, ça a rien fait de fou dans l'app, ça n'a pas fait de folies
     - Rails l'a fait tout seul, je l'ai pas codé pendant que vous aviez les yeux fermés
+    - Changer les routes, ça a rien fait de fou dans l'app, ça n'a pas fait de folies
     - Les id c'est fini, on a completement oublié comment ça marchait, maintenant je lui passe carrément un restau
-    - Si vous voulez j'peux galérer comme ça des heures, si ça vous fait plaisir...
+    - Si vous voulez j'peux galérer comme ça des heures... si ça vous fait plaisir...
+    - Si ça vous intéresse, on est là pour faire des expériences
+    - Ca on le refait pas, sinon on referait tous les jours le même cours
     - Même si j'suis dans l'aventure complet, j'me risque quand même
-    - Je suis un 'dev' solide, j'y vais
+    - Je suis un 'dev' solide, j'y vais...
     - La doc je vais pas la lire avec vous sinon vous allez carrément vous endormir
     - "Faut que t'ailles fumer une clope : tu me proposes des trucs qui n'ont pas de sens"
     - Je vais me faire un p'tit seed, comma ça mon application vivra un peu
     - C'est un truc que je vous conseille sincèrement pas
     - Au bout d'un moment ça m'échappe
-    - "Pourquoi je tape rake db:seed ? Parce que j'suis un vieux mec : avant, rails db:seed ça n'existait pas"
+    - "Pourquoi je tape rake db:seed ? Parce que j'suis un vieux mec... : avant, rails db:seed ça n'existait pas"
     - C'est pas très flexible mon truc
-    - Normalement ça, ça devrait être vraiment ok pour vous...(gros blanc)... Heu, vous pouvez dire que c'est pas ok
+    - Normalement ça, ça devrait être vraiment ok pour vous... (gros blanc)... Heu, vous pouvez dire que c'est pas ok...
     - C'est pas beaucoup plus compliqué
     - Ca va vraiment vous éviter des galères
     - Au final, vulgairement, c'est ce que ça fait
-    - Ca on le refait pas, sinon on referait tous les jours le même cours
     - Si je devais le coder, je coderai vachement plus moche que ce qu'a fait ActiveRecord
     - "Ce serait stylé, j'aime bien l'idée, mais non : ça n'existe pas"
     - Pour ça j'ai besoin d'un restau, je peux pas le faire dans le vent
-    - Tiens je vais l'utiliser, comme ça vous comprendez pourquoi faut pas l'utiliser
-    - "Le plus grave ce sont les routes qui ont été créées pour moi, il est fou : ça j'en veux pas !"
     - Ca crée des fichiers inutiles, c'est dégeulasse, c'est nul, et ça va rester là, pour la vie...
-    - Y'a des customisations infinies pour ça
-    - Rails va carrément vous balancer une erreur
-    - Nester des ressources c'est un peu le bordel
-    - Vous êtes d'accord qu'avant je codais un peu comme un gros crade
-    - Je vais le faire peter pour que vous le voyez
+    - Tiens je vais l'utiliser, comme ça vous comprendez pourquoi faut pas l'utiliser
+    - "Le plus grave ce sont les routes qui ont été créées pour moi :  il est fou, ça j'en veux pas !"
     - "Souvenez vous de ça : le faites pas, sinon c'est parti pour une journée de prise de tête"
-    - Si t'as pas ça sous les yeux, tes questions tu peux pas y répondre, ça devient mystique
-    - Une fois que vous l'aurez posé sur le papier, ça va vous paraître très cohérent...
-    - J'ai codé comme si j'étais dans un monde magnifique
-    - Là quand même, le gars il est sûr de quitter votre site, globalement...
-    - J'peux pas assumer la tronche que va avoir mon ingrédient
-    - Là je commence à faire du code un peu crade mais il est l'heure de passer au café..
-    - "J'ai pas besoin qu'on me dise 'quand tu postes ton formulaire ça va là' : je le sais puisque c'est moi qui l'ai codé.."
-    - Cette erreur, voyez là une fois, et ne l'oubliez plus jamais
-    - C'est bien mais c'est pas encore le futur
-    - J'ai l'impression que ça vous fait ni chaud ni froid mais c'est assez incroyable
-    - Si on checke les logs en prod, quand on en est là, c'est que c'est la crise
-    - Si vous avez vraiment quelque chose contre amazon, faut le dire maintenant
+    - Y'a des customisations infinies pour ça
     - "Imaginez vous renversez votre café sur votre serveur perso : c' est foutu"
-    - Si ça vous intéresse, on est là pour faire des expériences
-    - Je pense qu'il faut que vous rencontriez le probleme pour que vous compreniez le truc... Je vais miser là-dessus...
-    - Tout ça c'est des outils, y'a moyen de tout faire à l'ancienne si vous voulez...
     - T'es bien sympa mais '$' je connais pas
-    - Là dessus on vit plutôt une belle époque, en revanche coté mails c'est le dawa
     - J'ai un serveur qui tourne paisiblement
     - C'est coriace à débuguer
     - C'est un job un peu obscure
     - Adieu le navigateur
-    - Je cherche l'error dans les logs... par là ça chauffe...
     - Ca c'est le truc immonde que je viens de coller
     - Mon ordi a du mal à se réveiller
     - Pour l'instant c'est cool mais c'est un peu peté
     - On va voir si ça marche toujours... ça marche plus...
-    - J'vais m'manger une 500
-    - J'ai fait exprès de coder comme un goret de développeur java
     - Le serveur il se fait un peu de mal tout seul
+    - Rails va carrément vous balancer une erreur
+    - J'vais m'manger une 500
+    - Je cherche l'error dans les logs... par là ça chauffe...
+    - Si on checke les logs en prod, quand on en est là, c'est que c'est la crise
+    - Je vais le faire peter pour que vous le voyez
+    - Cette erreur, voyez là une fois, et ne l'oubliez plus jamais
+    - Je pense qu'il faut que vous rencontriez le probleme pour que vous compreniez le truc... Je vais miser là-dessus...
+    - Nester des ressources c'est un peu le bordel
+    - Une fois que vous l'aurez posé sur le papier, ça va vous paraître très cohérent...
+    - Si t'as pas ça sous les yeux, tes questions tu peux pas y répondre, ça devient mystique...
+    - "J'ai pas besoin qu'on me dise 'quand tu postes ton formulaire ça va là' : je le sais puisque c'est moi qui l'ai codé..."
+    - J'peux pas assumer la tronche que va avoir mon ingrédient
+    - J'ai fait exprès de coder comme un goret de développeur java
+    - Vous êtes d'accord qu'avant je codais un peu comme un gros crade
+    - J'ai codé comme si j'étais dans un monde magnifique
+    - Là je commence à faire du code un peu crade mais il est l'heure de passer au café...
+    - Là quand même, le gars il est sûr de quitter votre site, globalement...
+    - Tout ça c'est des outils, y'a moyen de tout faire à l'ancienne si vous voulez...
+    - J'ai l'impression que ça vous fait ni chaud ni froid mais c'est assez incroyable
+    - C'est bien mais c'est pas encore le futur
+    - Là dessus on vit plutôt une belle époque, en revanche coté mails c'est le dawa
+    - Si vous avez vraiment quelque chose contre amazon, faut le dire maintenant
   speech_transitions:
     - Ok ça part très très bien
     - On va réessayer, je suis plein d'espoir
@@ -350,28 +346,28 @@ charles:
     - On y va ?
     - Bon du coup j'y vais
     - Ca va marcher, je suis assez confiant
-    - Si vous êtes perdus c'est le moment d'en parler
+    - Si vous êtes perdus c'est le moment d'en parler...
     - Ouais, exactement
-    - Là on est d'accord que..
+    - Là on est d'accord que...
     - Petite parenthèse là dessus
     - J'enchaine un peu car c'est un peu un gros cours ce matin
     - Ce serait absurde
     - C'est déjà chaud
     - En l'occurence j'ai confiance
-    - Vous êtes d'accord avec ça ? Ok cool
+    - Vous êtes d'accord avec ça ? Ok cool...
     - Je continue à défricher
     - C'est quand même assez cool
-    - Ca va ? Pas du tout ? C'est vrai ?
+    - Ca va ? Pas du tout ? C'est vrai ? ...
     - Ouh là, mais non, c'est quoi le délire
     - Je suis désolé, je vais devoir foncer car sinon vous n'aurez jamais de café
     - C'est une vraie question, c'est pas anodin
     - J'ai l'impression que je vous perds avec ça
     - Ce serait horrible
     - C'est raté
-    - C'est good ? Je vous sens vachement silencieuxx... mais c'est parce que vous etes concentrés … ?
     - C'est peut-être un peu hardcore
     - C'est cool ?
     - C'est super cool
+    - C'est good ? Je vous sens vachement silencieux... mais c'est parce que vous etes concentrés … ?
     - Je sais que vous n'etes pas convaincus à ce stade ... je sais que vous êtes super sceptiques...
     - Je vois que je vous ai vraiment pas convaincus ce matin, je suis vraiment désolé
     - C'est le dernier truc, après je vais vous laisser prendre un café et refléchir à tout ça
