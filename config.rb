@@ -52,6 +52,18 @@ end
 #   end
 # end
 
+# My helpers for videos
+# require_relative "./lib/my_asset_handler"
+# activate MyAssetHandler
+helpers do
+  def mp4_path(my_video)
+    asset_path :mp4, my_video
+  end
+  def mp4_tag(my_video)
+    tag(:mp4, :src => mp4_path(my_video))
+  end
+end
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
@@ -78,6 +90,7 @@ configure :build do
   #
   require_relative "./lib/build_cleaner"
   activate :build_cleaner
+
 end
 
 # Deployment
