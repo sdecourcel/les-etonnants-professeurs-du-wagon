@@ -181,7 +181,7 @@ boris:
     - Scaffold c'est pas un ami, parce qu'ensuite il faut enlever du gras
     - Je les crashtestent pas parce qu'elles sont dans les slides de Seb, donc elles doivent être bonnes...
     - Le gars il a passé 10 ans sur votre formulaire
-    - "Et là qu'est ce que je vais faire ? Je vais injecter mes messages dans un bon vieux <li>"
+    - "Et là qu'est ce que je vais faire ? Je vais injecter mes messages dans un bon vieux 'li'"
     - Aaahh...qu'à cela ne tienne, on va faire un commit absurde
     - On va utiliser un template sous stéroides
     - Ca sert à rien de pourrir votre code avec du code qui vient d'une librairie externe
@@ -243,7 +243,7 @@ boris:
     - Bon allez, café, et puis méditation
 sylvain:
   name: Sylvain Peigney
-  summary: Great enthousiastic speedy teacher
+  summary: Great enthousiastic speeding teacher
   picture: sylvain.png
   code_vision:
     - Ruby c'est de la poésie
@@ -274,7 +274,7 @@ sylvain:
     - Je suis en train de regarder vos yeux, pour voir si il y en a qui tremblent un peu
 charles:
   name: Charles Pernet
-  summary: Extremely efficient smiling eyes teacher
+  summary: Impressively efficient smiling eyes teacher
   picture: charles.jpg
   code_vision:
     - Les API c'est cool, partez plutôt avec cette idée là, plutôt que la syntaxe pourrie de javascript...
