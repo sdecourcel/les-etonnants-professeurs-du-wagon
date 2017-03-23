@@ -12,19 +12,22 @@
     <div class="row">
       <% data.teachers.each do |teacher, description| %>
         <div class="col-sm-6">
-          <div class="card">
-            <div class="card-category"><%= description.name %></div>
+          <div class="card text-center">
+              <div class="card-name"><%= description.name %></div>
+              <div class="card-top text-center">
+                   <%= image_tag description.picture, class: "avatar-very-extra-large" %>
+                   <h2><%= description.summary %></h2>
+                   <p><%= description.add_summary %></p>
+              </div>
+
+
             <div class="card-description">
-              <h2><%= description.summary %></h2>
+
             </div>
             <div class="card-sub-description">
-              <p><%= description.add_summary %></p>
+
             </div>
-            <div class="card-top">
-              <div>
-                 <%= image_tag description.picture, class: "avatar-very-extra-large" %>
-              </div>
-            </div>
+
             <%= link_to "", "teachers/#{teacher}.html", class: "card-link" %>
             <!--  <a class="card-link" href="#" ></a> -->
           </div>
