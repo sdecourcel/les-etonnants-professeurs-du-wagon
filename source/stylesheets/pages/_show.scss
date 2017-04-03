@@ -39,5 +39,19 @@
     text-decoration: none;
   }
 }
+.video-card {
+  overflow: hidden;
+  h5 {
+    margin: 0;
+  }
+  p {
+    font-size: 15px;
+  }
+
+  margin-bottom: 20px;
+}
+.video {
+  width: 500px;
+}
 
 

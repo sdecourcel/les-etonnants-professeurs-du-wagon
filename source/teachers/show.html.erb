@@ -23,9 +23,19 @@
         <% end %>
       </ul>
     </div>
-    <div>
-      <%= mp4_tag(teacher.videos) %>
-    </div>
+    <% unless teacher.videos.nil? %>
+      <div class="row">
+        <% teacher.videos.each do |item| %>
+          <div class="col-sm-6">
+            <div class="video-card text-center">
+              <h5><%= item.video_name %> </h5>
+              <p>(cliquez sur la vidéo ci-dessous)</p>
+              <video src="../videos/<%= item.video %>" class="video"></video>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
     <div class="container-paragraph warnings">
       <h3>Warnings</h3>
       <div>

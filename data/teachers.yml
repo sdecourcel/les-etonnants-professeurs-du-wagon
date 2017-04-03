@@ -13,7 +13,17 @@ seb:
     - Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
     - Il y a plein de gens talentueux partout
     - C'est bien foutu quand même, les mecs ils ont réfléchi...
-  videos: Technical_Workflow_for_a_startup_Se_concentrer_pour_creer
+  videos:
+    - video_name: Se concentrer pour créer
+      video: Technical_Workflow_for_a_startup_Se_concentrer_pour_creer.mp4
+    - video_name: Tests utilisateurs
+      video: Technical_Workflow_for_a_startup_Tests_Utilisateurs.mp4
+    - video_name: Pair programming 1
+      video: Technical_Workflow_for_a_startup_TravaillerADeux_TesterHypotheses_TrouverBugs.mp4
+    - video_name: Pair programming 2
+      video: Technical_Workflow_for_a_startup_PairProgramming.mp4
+    - video_name: Get a new power and become  self-sufficient
+      video: Born_to_code_Table_ronde_VOEN_Web2day_ImportanceAutonomie_GetANewPower.mp4
   warnings:
     warnings_title: Sharpened mind scanning questions faster than a computer
     warnings_content:
