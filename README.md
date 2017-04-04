@@ -1,1 +1,1 @@
-## Static middleman training project on github pages just for fun
+## Static middleman training project on github pages, just for fun

@@ -22,6 +22,8 @@ seb:
       video: Technical_Workflow_for_a_startup_TravaillerADeux_TesterHypotheses_TrouverBugs.mp4
     - video_name: Pair programming 2
       video: Technical_Workflow_for_a_startup_PairProgramming.mp4
+    - video_name: Rubber duck debugging
+      video: Rubber_Duck_Debugging.mp4
     - video_name: Get a new power and become  self-sufficient
       video: Born_to_code_Table_ronde_VOEN_Web2day_ImportanceAutonomie_GetANewPower.mp4
   warnings:
@@ -343,6 +345,7 @@ charles:
     - Vous êtes d'accord qu'avant je codais un peu comme un gros crade
     - J'ai codé comme si j'étais dans un monde magnifique
     - Là je commence à faire du code un peu crade mais il est l'heure de passer au café...
+    - A cette heure ci je suis 'complètement fumé'...
     - Là quand même, le gars il est sûr de quitter votre site, globalement...
     - Tout ça c'est des outils, y'a moyen de tout faire à l'ancienne si vous voulez...
     - J'ai l'impression que ça vous fait ni chaud ni froid mais c'est assez incroyable
