@@ -132,6 +132,7 @@ boris:
     - "Si quelqu'un voit votre design, c'est qu'il est moche : faut qu'il le sente"
     - Je peux faire ce que je veux, mes rêves les plus fous
   warnings:
+    warnings_title: Renard chenapan, sale fripouille, sacré vaurien
     warnings_list:
       - Demain j'suis has been, je suis déjà has been à l'heure qu'il est, c'est déjà trop tard
       - Le positionnement je suis nul, arrêtez de me poser des questions, je vous donne juste mes meilleurs méthodes
