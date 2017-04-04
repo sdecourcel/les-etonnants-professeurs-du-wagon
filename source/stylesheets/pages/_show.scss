@@ -40,17 +40,30 @@
   }
 }
 .video-card {
+  background-color: #a3cfe2;
+  position: relative;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  // width: auto;
+  // min-height: 350px;
+  height: 100%;
   overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 20px;
   h5 {
     margin: 0;
+    color: #0a475d;
   }
   p {
     font-size: 13px;
+    color: #0a475d;
   }
   margin-bottom: 30px;
 }
 .video {
-  width: 500px;
+  width: 100%;
 }
 
 
