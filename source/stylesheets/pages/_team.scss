@@ -1,6 +1,7 @@
 .team {
   background: $blue;
   color: white;
+  flex: 1;
   h1 {
     margin-bottom: 30px;
   }
@@ -11,4 +12,10 @@
   .fa {
     padding: 10px;
   }
+}
+.flex-center {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
 }
