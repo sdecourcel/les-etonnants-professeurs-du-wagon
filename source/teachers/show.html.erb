@@ -55,21 +55,19 @@
             <% end %>
           </ul>
         <% end %>
-      </div>
-    </div>
-    <% unless teacher.warnings.warnings_photos.nil? %>
-      <div class="row">
-        <% teacher.warnings.warnings_photos.each do |item| %>
-          <div class="col-xs-6 col-sm-4 col-md-2">
-            <div>
-              <div>
-                <%= image_tag item.photo, class: "warnings-photos" %>
+        <% unless teacher.warnings.warnings_photos.nil? %>
+          <div class="row">
+            <% teacher.warnings.warnings_photos.each do |item| %>
+              <div class="col-sm-4">
+                <div class="warnings-photos">
+                  <%= image_tag item, class: "show-photos" %>
+                </div>
               </div>
-            </div>
+            <% end %>
           </div>
         <% end %>
       </div>
-    <% end %>
+    </div>
     <div class="container-paragraph">
       <h3>Teaching overview</h3>
       <ul>

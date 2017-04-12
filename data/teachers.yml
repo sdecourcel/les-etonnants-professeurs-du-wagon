@@ -31,13 +31,6 @@ seb:
     warnings_content:
       - "Vous entendrez souvent : « Des questions ? N'hésitez pas... »"
       - "=> Ne tremblez pas trop... Surtout : réfléchissez à la pertinence de votre question avant de la poser..."
-    warnings_photos :
-      - photo: 1_365.jpg
-      - photo: 2_370.jpg
-      - photo: 3_400.jpg
-      - photo: 4_369.jpg
-      - photo: 5_363.jpg
-      - photo: 6_374.jpg
   teaching_overview:
     - Je la sors pas du chapeau, y'a rien de sorcier, y'a pas de mystère, y'a pas de truc magique, y'a pas de truc spécial, y'a pas de truc caché
     - Est ce que vous pouvez lire cette méthode et vous convaincre que ça fonctionne ?
@@ -298,6 +291,10 @@ charles:
     - "Administrateur systeme c'est un métier horrible, c'est dur quoi. Si y'a un client qui vous demande de le faire parce qu'il veut pas Heroku : dites non..."
   warnings:
     warnings_title: Very handsome guy...
+    warnings_photos:
+      - 5_363.jpg
+      - 2_370.jpg
+      - 1_365.jpg
   teaching_overview:
     - Rails l'a fait tout seul, je l'ai pas codé pendant que vous aviez les yeux fermés
     - Changer les routes, ça a rien fait de fou dans l'app, ça n'a pas fait de folies
