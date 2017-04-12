@@ -31,6 +31,13 @@ seb:
     warnings_content:
       - "Vous entendrez souvent : « Des questions ? N'hésitez pas... »"
       - "=> Ne tremblez pas trop... Surtout : réfléchissez à la pertinence de votre question avant de la poser..."
+    warnings_photos :
+      - photo: 1_365.jpg
+      - photo: 2_370.jpg
+      - photo: 3_400.jpg
+      - photo: 4_369.jpg
+      - photo: 5_363.jpg
+      - photo: 6_374.jpg
   teaching_overview:
     - Je la sors pas du chapeau, y'a rien de sorcier, y'a pas de mystère, y'a pas de truc magique, y'a pas de truc spécial, y'a pas de truc caché
     - Est ce que vous pouvez lire cette méthode et vous convaincre que ça fonctionne ?
