@@ -19,3 +19,30 @@
   align-items: center;
   flex-direction: column;
 }
+.little-padded {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.entrepreneur-video-card {
+  background-color: white;
+  position: relative;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  // width: auto;
+  // min-height: 350px;
+  // height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 20px;
+  h5 {
+    margin-bottom: 20px;
+    color: #0a475d;
+  }
+  margin-bottom: 30px;
+}
+.entrepreneur-video {
+
+}
+
