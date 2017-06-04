@@ -1,8 +1,27 @@
-<div class="container text-center padded flex-center">
+<% entrepreneur = data.entrepreneurs %>
 
+<div class="container text-center padded flex-center">
+  <div>
     <%= image_tag "sibylle.jpg", class: "avatar-extra-large" %>
     <h3>C'est moi</h3>
-
+  </div>
+  <% unless entrepreneur.videos.nil? %>
+    <div>
+      <h3>Pourquoi faire le choix de devenir entrepreneur...</h3>
+    </div>
+    <div class="row">
+      <% entrepreneur.videos.each do |item| %>
+        <div class="col-md-6">
+          <div class="video-card text-center">
+            <div>
+              <h5><%= item.video_name %> </h5>
+              <video src="../videos/<%= item.video %>" controls="controls" class="video"></video>
+            </div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  <% end %>
 </div>
 
 
