@@ -1,13 +1,21 @@
 videos:
   - video_name: Nous sommes ce que nous faisons
-    video: 1_NousSommesCeQueNousFaisons.mp4
+    video: 1-NousSommesCeQueNousFaisons.mp4
   - video_name: L'apprentissage exponentiel de n'importe où dans le monde
-    video: 2_LApprentissageExponentielDeNimporteOuDansLeMonde.mp4
-  - video_name: L'age industriel a diminué notre qualité de vie
-    video: 3_LEreIndustrielleADiminueNotreQualiteDeVie.mp4
+    video: 2-LApprentissageExponentielDeNimporteOuDansLeMonde.mp4
+  - video_name: L'age industriel a réduit notre qualité de vie
+    video: 3-LEreIndustrielleADiminueNotreQualiteDeVie.mp4
+  - video_name: L'age entrepreneurial n'épargnera aucune industrie
+    video: 4-LAgeEntrepreneurialNEpargneraAucuneIndustrie.mp4
+  - video_name: "Le véritable indicateur: combien vivent dignement ?"
+    video: 5-LeVeritableIndicateur_CombienViventDignement.mp4
+  - video_name: N'importe qui peut changer le monde
+    video: 6-NImporteQuiPeutChangerLeMonde_GraceAInternet.mp4
   - video_name: Les sociétés internet n'ont pas de nationalité
-    video: 7_LesSocietesInternetNontPasDeNationalite.mp4
+    video: 7-LesSocietesInternetNontPasDeNationalite.mp4
+  - video_name: La travail inventé pour combler l'angoisse du vide va disparaître
+    video: 8-LeTravailInventePourComblerLAngoisseDuVideVaDisparaitre.mp4
   - video_name: Le tsunami de l'age entrepreneurial construit un monde où on peut vivre de peu
-    video: 9_LeTsunamiDuChangementConstruitUnMondeOuOnPeutVivreDePeu.mp4
+    video: 9-LeTsunamiDuChangementConstruitUnMondeOuOnPeutVivreDePeu.mp4
   - video_name: Prendre son destin en main pour trouver sa raison d'être
-    video: 10_PrendreSonDestinEnMain_PourTrouverSaRaisonDetre.mp4
+    video: 10-PrendreSonDestinEnMain_PourTrouverSaRaisonDetre.mp4
