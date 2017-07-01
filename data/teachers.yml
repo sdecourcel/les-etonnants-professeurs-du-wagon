@@ -292,7 +292,7 @@ charles:
   warnings:
     warnings_title: Very handsome guy...
     warnings_photos:
-      - coder_the_startup_way.png
+      - portrait.png
   teaching_overview:
     - Rails l'a fait tout seul, je l'ai pas codé pendant que vous aviez les yeux fermés
     - Changer les routes, ça a rien fait de fou dans l'app, ça n'a pas fait de folies
