@@ -55,6 +55,17 @@
             <% end %>
           </ul>
         <% end %>
+        <% unless teacher.warnings.warnings_photos.nil? %>
+          <div class="row">
+            <% teacher.warnings.warnings_photos.each do |item| %>
+              <div class="col-sm-4">
+                <div class="warnings-photos">
+                  <%= image_tag item, class: "show-photos" %>
+                </div>
+              </div>
+            <% end %>
+          </div>
+        <% end %>
       </div>
     </div>
     <div class="container-paragraph">
