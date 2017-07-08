@@ -190,6 +190,8 @@ boris:
     - Là y'a plein d'aller-retours, ça s'appelle travailler, et quand t'es content, tu pull et tu push sur Heroku
     - Comme y'a plein de gens qui ont posté des articles pendant que je fais mon cours... enfin 'tellement'...pas tant que ça
     - Comme on est des ouf, on va se faire direct un before_action
+    - Puts c'est quand t'as que ton terminal pour pleurer
+    - CamelCase c'est les bosses de chameau, snake_case c'est la bave d'escargot
     - Le gars il a passé 10 ans sur votre formulaire
     - "Et là qu'est ce que je vais faire ? Je vais injecter mes messages dans un bon vieux 'li'"
     - Aaahh...qu'à cela ne tienne, on va faire un commit absurde
@@ -287,8 +289,14 @@ charles:
   summary: Impressively efficient smiling eyes teacher
   picture: charles.jpg
   code_vision:
+    - Même si j'suis dans l'aventure complet, j'me risque quand même
+    - Si je devais le coder, je coderai vachement plus moche que ce qu'a fait ActiveRecord
+    - Si on checke les logs en prod, quand on en est là, c'est que c'est la crise
+    - Cette erreur, voyez là une fois, et ne l'oubliez plus jamais
     - Les API c'est cool, partez plutôt avec cette idée là, plutôt que la syntaxe pourrie de javascript...
     - "Administrateur systeme c'est un métier horrible, c'est dur quoi. Si y'a un client qui vous demande de le faire parce qu'il veut pas Heroku : dites non..."
+    - "Imaginez, vous renversez votre café sur votre serveur perso : c' est foutu"
+    - Là dessus on vit plutôt une belle époque, en revanche coté mails c'est le dawa
   warnings:
     warnings_title: Very handsome guy...
     warnings_photos:
@@ -298,10 +306,9 @@ charles:
     - Changer les routes, ça a rien fait de fou dans l'app, ça n'a pas fait de folies
     - Les id c'est fini, on a completement oublié comment ça marchait, maintenant je lui passe carrément un restau
     - Si vous voulez j'peux galérer comme ça des heures... si ça vous fait plaisir...
-    - Si ça vous intéresse, on est là pour faire des expériences
     - Ca on le refait pas, sinon on referait tous les jours le même cours
-    - Même si j'suis dans l'aventure complet, j'me risque quand même
     - Je suis un 'dev' solide, j'y vais...
+    - Si ça vous intéresse, on est là pour faire des expériences
     - La doc je vais pas la lire avec vous sinon vous allez carrément vous endormir
     - "Faut que t'ailles fumer une clope : tu me proposes des trucs qui n'ont pas de sens"
     - Je vais me faire un p'tit seed, comma ça mon application vivra un peu
@@ -313,7 +320,6 @@ charles:
     - C'est pas beaucoup plus compliqué
     - Ca va vraiment vous éviter des galères
     - Au final, vulgairement, c'est ce que ça fait
-    - Si je devais le coder, je coderai vachement plus moche que ce qu'a fait ActiveRecord
     - "Ce serait stylé, j'aime bien l'idée, mais non : ça n'existe pas"
     - Pour ça j'ai besoin d'un restau, je peux pas le faire dans le vent
     - Ca crée des fichiers inutiles, c'est dégeulasse, c'est nul, et ça va rester là, pour la vie...
@@ -321,7 +327,6 @@ charles:
     - "Le plus grave ce sont les routes qui ont été créées pour moi :  il est fou, ça j'en veux pas !"
     - "Souvenez vous de ça : le faites pas, sinon c'est parti pour une journée de prise de tête"
     - Y'a des customisations infinies pour ça
-    - "Imaginez vous renversez votre café sur votre serveur perso : c' est foutu"
     - T'es bien sympa mais '$' je connais pas
     - J'ai un serveur qui tourne paisiblement
     - C'est coriace à débuguer
@@ -335,9 +340,7 @@ charles:
     - Rails va carrément vous balancer une erreur
     - J'vais m'manger une 500
     - Je cherche l'error dans les logs... par là ça chauffe...
-    - Si on checke les logs en prod, quand on en est là, c'est que c'est la crise
     - Je vais le faire peter pour que vous le voyez
-    - Cette erreur, voyez là une fois, et ne l'oubliez plus jamais
     - Je pense qu'il faut que vous rencontriez le probleme pour que vous compreniez le truc... Je vais miser là-dessus...
     - Nester des ressources c'est un peu le bordel
     - Une fois que vous l'aurez posé sur le papier, ça va vous paraître très cohérent...
@@ -353,7 +356,6 @@ charles:
     - Tout ça c'est des outils, y'a moyen de tout faire à l'ancienne si vous voulez...
     - J'ai l'impression que ça vous fait ni chaud ni froid mais c'est assez incroyable
     - C'est bien mais c'est pas encore le futur
-    - Là dessus on vit plutôt une belle époque, en revanche coté mails c'est le dawa
     - Si vous avez vraiment quelque chose contre amazon, faut le dire maintenant
   speech_transitions:
     - Ok ça part très très bien
