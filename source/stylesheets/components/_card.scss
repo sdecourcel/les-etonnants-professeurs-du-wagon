@@ -7,7 +7,10 @@
   margin-bottom: 20px;
   // width: auto;
   min-height: 350px;
-  // height: 100%;
+    @media (max-width: 768px) {
+      min-height: 400px;
+    }
+  //height: auto;
   overflow: hidden;
   display: flex;
   justify-content: space-around;
@@ -36,18 +39,26 @@
   .card-top {
     position: absolute;
     top: 50px;
-    bottom: 10px;
-    height: 300px;
+    //display: flex;
+    //flex-direction: column;
+    //justify-content: space-between;
+    //align-items: center;
+
+    padding-bottom: 10px;
+    height: 290px; //90%; // 290px
+    //margin: auto 0;
     padding: 0 10px;
     color: #0a475d;
     text-shadow: 0 0.5px 1px rgba(10,71,93,0.6);
     h2 {
       font-size: 24px;
+
       // font-size: 140%;
       // margin-bottom: 0;
     }
     p {
       font-size: 18px;
+
       // font-size: 90%;
     }
   }

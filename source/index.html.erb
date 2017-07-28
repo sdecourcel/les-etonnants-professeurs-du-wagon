@@ -15,10 +15,11 @@
           <div class="card text-center">
               <div class="card-name"><%= description.name %></div>
               <div class="card-top text-center">
-                   <%= image_tag description.picture, class: "avatar-very-extra-large" %>
-                   <h2><%= description.summary %></h2>
-                   <p><%= description.add_summary %></p>
+                <%= image_tag description.picture, class: "avatar-very-extra-large" %>
+                <h2><%= description.summary %></h2>
+                <p><%= description.add_summary %></p>
               </div>
+
             <%= link_to "", "teachers/#{teacher}.html", class: "card-link" %>
             <!--  <a class="card-link" href="#" ></a> -->
           </div>
