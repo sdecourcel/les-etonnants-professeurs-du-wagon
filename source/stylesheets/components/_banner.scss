@@ -2,13 +2,14 @@
   color: white;
   background-color: #61e5ff;
   text-align: center;
-  height: 270px;
-  @media (max-width: 768px) {
-      height: 350px;
-    }
+  min-height: 270px;
+  // @media (max-width: 768px) {
+  //     height: 350px;
+  //   }
   /* if you have a 70px navbar => height: calc(100vh - 70px); */
   background-size: cover !important;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 5px;
@@ -31,10 +32,11 @@
   text-align: center;
   color: white;
   background-color: #61e5ff;
-  height: 400px;
+  min-height: 400px;
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
-  // align-items: center;
+  align-items: center;
   padding: 20px;
 }
 
