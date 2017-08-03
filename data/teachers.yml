@@ -178,22 +178,27 @@ boris:
     - Parce que si y'a pas de dossier distant, j'push sur qui ? Y'a personne, j'suis relié à personne
     - Faut configurer des trucs, ça me fatigue... je préfère aller sur mon terminal
     - Parce que vous avez réinventé votre notation comme des gros geeks
-    - Et du coup ça vous pose pas de questions ? c'est cool ? On n'en parle pas quoi ?
+    - Et du coup ça vous pose pas de questions ? C'est cool ? On n'en parle pas quoi ?
     - Faut pas non plus être un gros 'ultra' des variables
     - Si tu veux à un moment donné, c'est presque 'overkill' de se faire une armée de classes utilitaires énorme
     - C'est robuste, c'est pas un truc qui va nous éclater dans les mains, et en même temps c'est pas non plus un ancetre
     - Scaffold c'est pas un ami, parce qu'ensuite il faut enlever du gras
+    - C'est pas un beau cadeau parce que tu sais pas ce que ça fait
     - Là Seb il me tape dessus si je poste un truc comme ça... mais c'est la vie
     - Je les crashteste pas parce qu'elles sont dans les slides de Seb, donc elles doivent être bonnes
     - Aujourd'hui j'ai un peu la flemme, je vais faire pas mal de copier/coller, si ça vous dérange pas
-    - C'est pas un beau cadeau parce que tu sais pas ce que ça fait
     - Pour l'instant vous pouvez le faire betement, comme moi là...
+    - On va pas démarrer tout nu
     - Pour l'instant on n'a fait que ça, mais comme je parle beaucoup on a l'impression qu'on a fait plus de choses
     - Là y'a plein d'aller-retours, ça s'appelle travailler, et quand t'es content, tu pull et tu push sur Heroku
     - Comme y'a plein de gens qui ont posté des articles pendant que je fais mon cours... enfin 'tellement'...pas tant que ça
     - Comme on est des ouf, on va se faire direct un before_action
     - Puts c'est quand t'as que ton terminal pour pleurer
-    - CamelCase c'est les bosses de chameau, snake_case c'est la bave d'escargot
+    - C'est fini ça, c'est le passé
+    - "On va plus faire de CSS :  c'est pour les loosers"
+    - Ca c'est vraiment le mec qui sait pas coder quoi
+    - C'est pour vous montrer que ça va se coller le front et le back un jour, je sais que ça vous angoisse pas mal
+    - "CamelCase c'est les 'bosses de chameau', snake_case c'est la 'bave d'escargot'"
     - Le gars il a passé 10 ans sur votre formulaire
     - "Et là qu'est ce que je vais faire ? Je vais injecter mes messages dans un bon vieux 'li'"
     - Aaahh...qu'à cela ne tienne, on va faire un commit absurde
@@ -256,6 +261,7 @@ boris:
     - Y'a rien de très puissant là dedans
     - Ca réinvente pas la poudre
     - Et je suis sûr que vous êtes ravis parce qu'on va faire de la validation...
+    - Ca y est vous êtes réveillés
     - Ouais, question rapide parce que là tout le monde va te tuer
     - Bah voilà, vous êtes contents, on va boire un café ?
     - Bon allez, café, et puis méditation
@@ -328,7 +334,7 @@ charles:
     - Au final, vulgairement, c'est ce que ça fait
     - "Ce serait stylé, j'aime bien l'idée, mais non : ça n'existe pas"
     - Pour ça j'ai besoin d'un restau, je peux pas le faire dans le vent
-    - Ca crée des fichiers inutiles, c'est dégeulasse, c'est nul, et ça va rester là, pour la vie...
+    - Scaffold ça crée des fichiers inutiles, c'est dégeulasse, c'est nul, et ça va rester là, pour la vie...
     - Tiens je vais l'utiliser, comme ça vous comprendez pourquoi faut pas l'utiliser
     - "Le plus grave ce sont les routes qui ont été créées pour moi :  il est fou, ça j'en veux pas !"
     - "Souvenez vous de ça : le faites pas, sinon c'est parti pour une journée de prise de tête"
